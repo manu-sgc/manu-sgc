@@ -1,10 +1,23 @@
 <div align="center">
     <h1>Olá, eu sou a Manoela. Seja bem-vindo 👋</h1>
-    <p style="font-size: 1.1em">
-        Sou uma estudante de <b>Enegenharia de Software</b> da Universidade de Brasília (UnB)</p>
-    <hr>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=manu-sgc&show_icons=true&theme=defaukt&text_color=fff&title_color=fff&rank_icon=github&bg_color=0.5,e96443,904e95&icon_color=fff&hide_border=true&locale=pt-br" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manu-sgc&size_weight=0.5&count_weight=0.5&layout=donut&text_color=fff&title_color=fff&bg_color=0.5,904e95,e96443&hide_border=true&locale=pt-br">
+    <p style="font-size: 1.1em; display: flex; align-items: center; justify-content: center;">
+        Sou estudante de <b>Engenharia de Software</b> da Universidade de Brasília (UnB).
+    </p>
+    <div>
+        <a href="https://www.linkedin.com/in/manoela-garcia-3b51302ab/" style="margin-left: 10px;">
+          <img alt="Manoela's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+        </a>
+        <a href="https://www.instagram.com/manu.sgc/">
+          <img alt="Manoela's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+        </a>
+    </div>
+<div align="center">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=manu-sgc&show_icons=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=0.5,add8e6,87cefa&hide_border=true&locale=pt-br" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manu-sgc&size_weight=0.5&count_weight=0.5&layout=donut&text_color=000000&title_color=000000&bg_color=0.5,87cefa,add8e6&hide_border=true&locale=pt-br" />
+
+
+
+</div>
 <hr>
     <h3>Tecnologias que uso no meu dia a dia:</h3>
     <div>
